@@ -5,9 +5,9 @@ Version:	0.0.5
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/substack/node-editor
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
 # Source0-md5:	69cde0a48685690052af4e2578ccf255
+URL:		https://github.com/substack/node-editor
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs >= 0.6
 BuildArch:	noarch
