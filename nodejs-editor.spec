@@ -1,12 +1,12 @@
 %define		pkg	editor
 Summary:	Launch $EDITOR in your program
 Name:		nodejs-%{pkg}
-Version:	0.0.5
+Version:	0.1.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
-# Source0-md5:	69cde0a48685690052af4e2578ccf255
+# Source0-md5:	03488f2e3423375274856c9c7a262026
 URL:		https://github.com/substack/node-editor
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs >= 0.6
