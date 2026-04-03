@@ -2,7 +2,7 @@
 Summary:	Launch $EDITOR in your program
 Name:		nodejs-%{pkg}
 Version:	0.1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
